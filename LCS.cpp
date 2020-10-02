@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<cstring>
+
 #define M  1001
 using namespace std;
 
